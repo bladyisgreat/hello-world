@@ -1,2 +1,3 @@
 # hello-world
-This is a practice repository.
+this is a practice repository.
+bladyisgreat is learning to code and to use github.
